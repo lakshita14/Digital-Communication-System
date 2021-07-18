@@ -1,5 +1,5 @@
 # Digital-Communication-System
-Implementing the transmitter part of a Digital communication System which includes. three major modules:
+Implementing the transmitter part of a Digital communication System which includes three major modules:
 
 
 
